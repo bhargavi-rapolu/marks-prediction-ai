@@ -1,0 +1,10 @@
+#python cache
+__pycache__/
+*.py[cod]
+
+#System files
+.DS_Store
+Thumbs.db
+
+#Optional: ignore output images if you regenerate them
+#results/*.png
